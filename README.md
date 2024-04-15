@@ -1,17 +1,28 @@
-Travel App - README Template
-Travel Recommendation App
-Table of Contents
-Overview
-Product Spec
--  
-Wireframes
-Schema
-Overview
-Description
-- This app will allow for a user to set preferences such as age, interests(ex. history or nightlife). Once the user sets their preferences the app will suggest different types of attractions that meet the specific guidlines that the user has set. They will be able to choose for different attractions in their area and rate them on a scale of 1-5.There will also be a feature that allows users to discuss and offer suggestions on where to go and all tourst related information.  
+1. alarm app
 
-App Evaluation
-   - **Description**:  This app will allow for a user to set preferences such as age, interests(ex. history or nightlife). Once the user sets their preferences the app will suggest different types of attractions that meet the specific guidlines that the user has set. They will be able to choose for different attractions in their area and rate them on a scale of 1-5. There will also be a feature that allows users to discuss and offer suggestions on where to go and all tourst related information.
+- this app will allow a user to set an alarm. 
+- They can choose to be awoken by normal sounds
+- The feature with this app that may draw attention is the ability for a user to design their own sound
+- There will also be an option to be awoken by a motivational qoute. 
+-This app will awaken the user with a quote that can leave the user motivated to start their day. 
+- this qoute can be chosen from a handful of famous motivational qoutes.
+- It will aslo remain on the user lockscreen until they dismiss it.
+- Allowing them to see it for the entirety of the day 
+- Once a new alarm is set the qoute will be delted from the screen.
+
+2. travel app
+- This app will allow for a user to set preferences such as age, interests(ex. history or nightlife). 
+- Once the user sets their preferences the app will suggest different types of attractions that meet the specific guidlines that the user has set. 
+- They will be able to choose for different attractions in their area and rate them on a scale of 1-5.
+
+3. to do list app 
+- This app will allow users to create a daily list of objectives. 
+- They will also be able to prioridotize tasks and collaborate with other users on a list. They will also be able to set these priority tasks to be shown on their lockscreen which will help them remember and focus on a task. 
+- In addition to this their will be a lock down mode that will allow a user to select apps that they wish to silence while working on a task. 
+
+## New App Ideas - Evaluate and Categorize
+1. Travel App 
+   - **Description**:  This app will allow for a user to set preferences such as age, interests(ex. history or nightlife). Once the user sets their preferences the app will suggest different types of attractions that meet the specific guidlines that the user has set. They will be able to choose for different attractions in their area and rate them on a scale of 1-5. 
   
    - **Category:** Tourism
     
@@ -24,57 +35,18 @@ App Evaluation
    - **Habit:** While users are limited on their tourism. There are groups of people who are traveling very often who may use this app daily. Some of these people include Study Abroad students, people who work in airline industries, cruiseline employees, etc. 
    
    - **Scope:** V1 would allow users to find attractions near them that they feel align with their interests. There will be a way for users to enter in their interests and hobbies that may be more appelaing to them, and the app will suggest attractions they may find interesting. 
+
+2. To Do List app
+   - **Description**: This app will allow users to create a daily list of objectives. They will also be able to prioridotize tasks and collaborate with other users on a list. They will also be able to set these priority tasks to be shown on their lockscreen which will help them remember and focus on a task. In addition to this their will be a lock down mode that will allow a user to select apps that they wish to silence while working on a task. 
   
-1. User Stories (Required and Optional)
-
-- User Profile Creation: Allow users to create profiles where they can set preferences such as age, interests, and hobbies.
-- Attractions Recommendations: Provide personalized recommendations for attractions based on user preferences.
-- Attractions Information: Display detailed information about each attraction, including descriptions, opening hours, and location.
-- Ratings and Reviews: Enable users to rate attractions on a scale of 1-5 and leave reviews.
-- Ticket Purchasing: Integrate a feature for users to purchase tickets directly through the app for recommended attractions.
-- Search Functionality: Implement a search feature for users to find attractions based on location or keywords.
-- Image Sharing: Allow users to upload images of attractions and share them within the app.
-
-Optional Nice-to-have Stories
-- Social Sharing: Enable users to share their experiences and recommendations on social media platforms.
-- Event Recommendations: Expand beyond attractions to include recommendations for local events and festivals.
-- Offline Access: Provide offline access to attraction information and directions for users traveling in areas with limited connectivity.
-- Language Support: Offer support for multiple languages to cater to international users.
-- Customizable Notifications: Allow users to customize notifications for updates on new attractions or events matching their preferences.
-
-2. Screen Archetypes
-- Welcome/Onboarding Screen
-- User Profile Creation
-- Home Screen (Attraction Recommendations)
-- Attractions Detail Screen
-- Ratings and Reviews Screen
-- Ticket Purchase Screen
-- Search Screen
-- Image Sharing Screen
-- Settings Screen
-
-3. Navigation
-- User opens the app
-- Welcome/Onboarding Screen is displayed
-- User proceeds to create a profile or log in
-- After profile creation, user is directed to the Home Screen
-- Home Screen displays personalized attraction recommendations
-- User can browse attractions or use the search function
-- Upon selecting an attraction, user is taken to the Attractions Detail Screen for more information
-- From the detail screen, user can leave ratings and reviews, purchase tickets, or share images
-- User can navigate back to the Home Screen or access other features through the navigation menu in the app.
-Wireframes
-https://github.com/timmesc/Travel-App/raw/main/IMG_0278.HEIC
-
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
-Schema
-[This section will be completed in Unit 9]
-
-Models
-[Add table of models]
-
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
+   - **Category:** Organization
+    
+   - **Mobile:** The mobile version of this app is most important because we are contantly on our phones and can be readily available for a reminder on certain tasks. 
+   
+   - **Story:** Many people struggle to focus on tasks and sometimes forget their responsibilities for the day. This app aims to help conquer the doom scroll through our lock down feature which does not allow for acess to apps selected. Ex a user can select instgram to lock down which will not allow them to access instagram. 
+   
+   - **Market:** This application has a large market. As many people are looking to become more efficient task switchers. This app can help users in all categories from students to corporate companies it can be very versitile. 
+  
+   - **Habit:** This is an app that would be used on the daily by users. 
+   
+   - **Scope:** V1 would allow a user to create lists and organize them by priority. The V2 will allow for a lock mode and collaberation with users.
