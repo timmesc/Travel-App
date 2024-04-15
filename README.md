@@ -64,7 +64,7 @@ Optional Nice-to-have Stories
 - From the detail screen, user can leave ratings and reviews, purchase tickets, or share images
 - User can navigate back to the Home Screen or access other features through the navigation menu in the app.
 Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
