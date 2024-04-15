@@ -64,7 +64,7 @@ Optional Nice-to-have Stories
 - From the detail screen, user can leave ratings and reviews, purchase tickets, or share images
 - User can navigate back to the Home Screen or access other features through the navigation menu in the app.
 Wireframes
-
+https://github.com/timmesc/Travel-App/raw/main/IMG_0278.HEIC
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
