@@ -66,10 +66,11 @@ Optional Nice-to-have Stories
 
 
 Wireframes
-https://youtu.be/rde6bwoq3Rs
-
-
 https://raw.githubusercontent.com/timmesc/Travel-App/main/IMG_0278.HEIC
+
+
+Video
+https://youtu.be/rde6bwoq3Rs
 
 Progress
 - Currently I have set up a user sign up and login page that sends the user to the view controller/ main page. I am currently working on linking an API to create the preferences and enter in location to recieve recommendations on toursim
