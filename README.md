@@ -65,6 +65,8 @@ Optional Nice-to-have Stories
 - User can navigate back to the Home Screen or access other features through the navigation menu in the app.
 Wireframes
 https://youtu.be/rde6bwoq3Rs
+
+
 https://raw.githubusercontent.com/timmesc/Travel-App/main/IMG_0278.HEIC
 
 Progress
