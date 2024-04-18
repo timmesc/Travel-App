@@ -63,6 +63,8 @@ Optional Nice-to-have Stories
 - Upon selecting an attraction, user is taken to the Attractions Detail Screen for more information
 - From the detail screen, user can leave ratings and reviews, purchase tickets, or share images
 - User can navigate back to the Home Screen or access other features through the navigation menu in the app.
+
+
 Wireframes
 https://youtu.be/rde6bwoq3Rs
 
