@@ -3,6 +3,8 @@ Travel Recommendation App
 Table of Contents
 Overview
 Product Spec
+Progress
+- Currently I have set up a user sign up and login page that sends the user to the view controller/ main page. I am currently working on linking an API to create the preferences and enter in location to recieve recommendations on toursim
 -  
 Wireframes
 Schema
