@@ -3,8 +3,6 @@ Travel Recommendation App
 Table of Contents
 Overview
 Product Spec
-Progress
-- Currently I have set up a user sign up and login page that sends the user to the view controller/ main page. I am currently working on linking an API to create the preferences and enter in location to recieve recommendations on toursim
 -  
 Wireframes
 Schema
@@ -67,7 +65,10 @@ Optional Nice-to-have Stories
 - User can navigate back to the Home Screen or access other features through the navigation menu in the app.
 Wireframes
 https://youtu.be/rde6bwoq3Rs
+https://raw.githubusercontent.com/timmesc/Travel-App/main/IMG_0278.HEIC
 
+Progress
+- Currently I have set up a user sign up and login page that sends the user to the view controller/ main page. I am currently working on linking an API to create the preferences and enter in location to recieve recommendations on toursim
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
