@@ -73,17 +73,47 @@ Video
 https://youtu.be/rde6bwoq3Rs
 
 Progress
-- Currently I have set up a user sign up and login page that sends the user to the view controller/ main page. I am currently working on linking an API to create the preferences and enter in location to recieve recommendations on toursim
+- Currently have linked the api and am able to show locations with suggested toursit locations
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 Schema
-[This section will be completed in Unit 9]
+
+
 
 Models
-[Add table of models]
+ struct Location: Codable {
+        let location: String
+        let attraction: String
+    }
+    
+    enum LocationError: Error {
+        case invalidResponse
+    }
+    
 
 Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
+
+    func getLocation() async throws -> [Location] {
+        let endpoint = "http://localhost:9080/location"
+        
+        guard let url = URL(string: endpoint) else {
+            throw LocationError.invalidResponse
+        }
+        
+        do {
+            let (data, response) = try await URLSession.shared.data(from: url)
+            
+            guard let httpResponse = response as? HTTPURLResponse, httpResponse.statusCode == 200 else {
+                throw LocationError.invalidResponse
+            }
+            
+            let decoder = JSONDecoder()
+            decoder.keyDecodingStrategy = .convertFromSnakeCase
+            let locations = try decoder.decode([Location].self, from: data)
+            return locations
+        } catch {
+            throw LocationError.invalidResponse
+        }
+    }
 [OPTIONAL: List endpoints if using existing API such as Yelp]
