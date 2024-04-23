@@ -79,6 +79,8 @@ Progress
 [BONUS] Interactive Prototype
 Schema
 
+Please copy and paste these two links for updated wirefram and new app feature
+
 file:///Users/charlestimmes/Desktop/Screenshot%202024-04-23%20at%201.59.42%E2%80%AFAM.png
 
 file:///Users/charlestimmes/Desktop/Screenshot%202024-04-23%20at%201.56.33%E2%80%AFAM.png
