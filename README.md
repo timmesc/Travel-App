@@ -79,9 +79,14 @@ Progress
 [BONUS] Interactive Prototype
 Schema
 
+file:///Users/charlestimmes/Desktop/Screenshot%202024-04-23%20at%201.59.42%E2%80%AFAM.png
+
+file:///Users/charlestimmes/Desktop/Screenshot%202024-04-23%20at%201.56.33%E2%80%AFAM.png
+
 
 
 Models
+
  struct Location: Codable {
         let location: String
         let attraction: String
