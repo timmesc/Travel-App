@@ -85,6 +85,20 @@ file:///Users/charlestimmes/Desktop/Screenshot%202024-04-23%20at%201.59.42%E2%80
 
 file:///Users/charlestimmes/Desktop/Screenshot%202024-04-23%20at%201.56.33%E2%80%AFAM.png
 
+Final Update 
+
+https://youtu.be/rde6bwoq3Rs
+
+Update includes:
+tab bar
+settings
+preferences
+chat room view controller
+
+issues:
+API connections 
+
+
 
 
 Models
